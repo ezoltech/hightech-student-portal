@@ -1,0 +1,9 @@
+{
+  "name": "client",
+  "version": "1.0",
+  "description": "frontend student side project",
+  "main": "index.js",
+  "author": "hightech",
+  "license": "MIT",
+  "private": true
+}
