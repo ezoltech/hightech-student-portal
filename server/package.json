@@ -1,0 +1,10 @@
+{
+  "name": "hightech-student-portal-backend",
+  "version": "1.0.0",
+  "description": "server side for hightech student portal starting project",
+  "main": "index.js",
+  "repository": "https://github.com/ezoltech/hightech-student-portal",
+  "author": "hightech",
+  "license": "MIT",
+  "private": true
+}
